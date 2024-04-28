@@ -5,7 +5,7 @@
 Before you can run the app, you must install the necessary dependencies. This ensures that all libraries and tools required by the project are available and properly configured.
 
 ```bash
-npm instal
+npm install
 ```
 
 ### Run the React Native app
