@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "native-image-view": ["../src/index"],
+      "native-image-view/*": ["../src/*"]
+    }
+  }
+}
